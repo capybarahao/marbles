@@ -1,5 +1,5 @@
-title: MEOW
-description: cat's are coming
+title: My Marbles
+description: Play online with others, and win all the marbles
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
